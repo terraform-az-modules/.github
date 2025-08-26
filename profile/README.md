@@ -9,31 +9,31 @@
 ---
 
 ### ⚡ What We Do
-- **Infrastructure as Code (IaC):** 45+ opinionated Terraform modules across core Azure services.  
-- **Secure by Default:** Modules aligned with Microsoft best practices and security guardrails.  
-- **Consistency:** Standardized naming conventions, tagging, and structure across resources.  
-- **Examples Included:** Every module ships with usage examples to get started quickly.  
-- **Terraform Scanning:** Automated **Checkov** scans ensure compliance and security before release.  
-- **CI/CD Ready:** Designed for GitHub Actions, Azure DevOps, and reusable workflows.  
+- **Infrastructure as Code (IaC):** 45+ opinionated Terraform modules across core Azure services.
+- **Secure by Default:** Modules aligned with Microsoft best practices and security guardrails.
+- **Consistency:** Standardized naming conventions, tagging, and structure across resources.
+- **Examples Included:** Every module ships with usage examples to get started quickly.
+- **Terraform Scanning:** Automated **Checkov** scans ensure compliance and security before release.
+- **CI/CD Ready:** Designed for GitHub Actions, Azure DevOps, and reusable workflows.
 
 ---
 
 ### 🏆 Highlights
-- Modules validated with **Checkov** for security and compliance.  
-- Examples provided in each repo for **quick adoption**.  
-- Focused entirely on **Microsoft Azure** for depth and reliability.  
-- Actively maintained and community-driven.  
+- Modules validated with **Checkov** for security and compliance.
+- Examples provided in each repo for **quick adoption**.
+- Focused entirely on **Microsoft Azure** for depth and reliability.
+- Actively maintained and community-driven.
 
 
 ---
 
 
 ### 🌟 Why Terraform AZ Modules?
-1. **Reusable building blocks** — Composable modules for any workload.  
-3. **Secure defaults** — Security guardrails integrated into every module.  
-4. **Production-ready** — HA, scalability, and compliance baked in.  
-5. **Developer-friendly** — Examples, variable descriptions, and outputs included.  
-6. **Automation focused** — Compatible with GitOps, CI/CD, and IaC pipelines.  
+1. **Reusable building blocks** — Composable modules for any workload.
+3. **Secure defaults** — Security guardrails integrated into every module.
+4. **Production-ready** — HA, scalability, and compliance baked in.
+5. **Developer-friendly** — Examples, variable descriptions, and outputs included.
+6. **Automation focused** — Compatible with GitOps, CI/CD, and IaC pipelines.
 
 ---
 
@@ -61,25 +61,25 @@ Join our tech elites [Join Now](https://www.launchpass.com/devops-talks) 🚀
 
 ---
 
-## 📚 Explore Our Blogs  
-[👉 Click here](https://blog.clouddrove.com/) to read our latest insights and updates.  
+## 📚 Explore Our Blogs
+[👉 Click here](https://blog.clouddrove.com/) to read our latest insights and updates.
 
 ---
 
-## 🌐 Tap Into Our Capabilities  
+## 🌐 Tap Into Our Capabilities
 
-We provide a platform for organizations to engage with **experienced top-tier DevOps & Cloud services**.  
-Tap into our pool of **certified engineers and architects** to elevate your DevOps and Cloud Solutions.  
+We provide a platform for organizations to engage with **experienced top-tier DevOps & Cloud services**.
+Tap into our pool of **certified engineers and architects** to elevate your DevOps and Cloud Solutions.
 
-CloudDrove has extensive experience in:  
-- Designing, building & migrating environments  
-- Securing and consulting on cloud platforms  
-- Monitoring, optimizing, and automating complex systems  
-- Maintaining modern cloud-native architectures at scale  
+CloudDrove has extensive experience in:
+- Designing, building & migrating environments
+- Securing and consulting on cloud platforms
+- Monitoring, optimizing, and automating complex systems
+- Maintaining modern cloud-native architectures at scale
 
-With remarkable client footprints in **American & European corridors**, our certified architects & engineers are ready to serve you as per your requirements & schedule.  
+With remarkable client footprints in **American & European corridors**, our certified architects & engineers are ready to serve you as per your requirements & schedule.
 
-📩 Write to us at **[business@clouddrove.com](mailto:business@clouddrove.com)**  
+📩 Write to us at **[business@clouddrove.com](mailto:business@clouddrove.com)**
 
 <p align="center">
   ⭐ If our Azure modules helped you simplify deployments, we'd appreciate a star!
