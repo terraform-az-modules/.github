@@ -1,5 +1,7 @@
 # terraform-az-modules
-<img width="1024" height="400" alt="image" src="https://github.com/user-attachments/assets/83484745-b498-4148-a167-9891eaab30d6" />
+<img width="1024" height="292" alt="Untitled design" src="https://github.com/user-attachments/assets/f8d028c6-070d-4b66-a93f-8ab3b63d3e60" />
+
+
 
 
 ![Terraform](https://img.shields.io/badge/Terraform-Azure-blue?logo=terraform)
