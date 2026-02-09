@@ -7,7 +7,7 @@ This repository defines the organization-level baseline for GitHub collaboration
 - Do **not** reference reusable workflows with floating refs such as `@master` or `@main`.
 - Use immutable refs:
   - pinned commit SHA (preferred), or
-  - immutable release tag.
+  - immutable release tag (prefer GitHub Releases and protected tags to prevent tag moves/force-updates).
 
 Example:
 
