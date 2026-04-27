@@ -41,7 +41,7 @@
 | Type | Highlight |
 |------|-----------|
 | **Terraform Modules** | [AWS](https://github.com/clouddrove?q=terraform-aws&type=all&language=&sort=), [GCP](https://github.com/clouddrove?q=terraform-gcp&type=all&language=&sort=), [DO](https://github.com/terraform-do-modules?q=terraform-digitalocean&type=all&language=&sort=)|
-| **Helm Charts** | [helm-charts](https://github.com/clouddrove/helm-charts) |
+| **Helm Charts** | [helm-charts](https://github.com/clouddrove/helmchart) |
 | **GitHub Actions** | Shared workflows to standardise CI/CD |
 | **Security Baselines** | Standard infra guardrails (e.g., secure baseline module) |
 
